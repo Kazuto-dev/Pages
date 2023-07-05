@@ -29,7 +29,7 @@
         padding: 0 30px 30px 30px;
         text-align: center;
     }
-    
+ 
     .rectangle1{
         width: 100%;
         display:flex;
@@ -163,13 +163,17 @@
         flex-wrap: wrap;
         padding-top: 50px;
     }
+
+    .square{
+        background-size:cover;
+        background: url(img/ha.png);
+    }
     .square {
         width: 285.283px;
         padding-top: 50px;
         height: 210px;
         flex-shrink: 0;
         border-radius: 11.321px;
-        background: #C4C4C4;
     }
     .aboutus {
         padding-top: 50px;
